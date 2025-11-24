@@ -1,2 +1,1 @@
-# Bus Management System
-This project contains C code...
+author 1) Prabal Mittal  (590028199) <br> 2) Himani Kumari ()
